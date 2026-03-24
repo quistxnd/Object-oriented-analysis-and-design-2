@@ -1,0 +1,5 @@
+/Users/temirlan/Documents/My Projects/ТГУ/Гуров/MusicAdapterPattern/build/CMakeFiles/MusicPlayerAdapter.dir
+/Users/temirlan/Documents/My Projects/ТГУ/Гуров/MusicAdapterPattern/build/CMakeFiles/edit_cache.dir
+/Users/temirlan/Documents/My Projects/ТГУ/Гуров/MusicAdapterPattern/build/CMakeFiles/rebuild_cache.dir
+/Users/temirlan/Documents/My Projects/ТГУ/Гуров/MusicAdapterPattern/build/CMakeFiles/MusicPlayerAdapter_autogen_timestamp_deps.dir
+/Users/temirlan/Documents/My Projects/ТГУ/Гуров/MusicAdapterPattern/build/CMakeFiles/MusicPlayerAdapter_autogen.dir

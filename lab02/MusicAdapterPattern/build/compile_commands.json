@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/temirlan/Documents/My Projects/ТГУ/Гуров/MusicAdapterPattern/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I\"/Users/temirlan/Documents/My Projects/ТГУ/Гуров/MusicAdapterPattern/build/MusicPlayerAdapter_autogen/include\" -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtMultimedia.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtNetwork.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/MusicPlayerAdapter.dir/MusicPlayerAdapter_autogen/mocs_compilation.cpp.o -c \"/Users/temirlan/Documents/My Projects/ТГУ/Гуров/MusicAdapterPattern/build/MusicPlayerAdapter_autogen/mocs_compilation.cpp\"",
+  "file": "/Users/temirlan/Documents/My Projects/ТГУ/Гуров/MusicAdapterPattern/build/MusicPlayerAdapter_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/MusicPlayerAdapter.dir/MusicPlayerAdapter_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/temirlan/Documents/My Projects/ТГУ/Гуров/MusicAdapterPattern/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I\"/Users/temirlan/Documents/My Projects/ТГУ/Гуров/MusicAdapterPattern/build/MusicPlayerAdapter_autogen/include\" -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtMultimedia.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtNetwork.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/MusicPlayerAdapter.dir/main.cpp.o -c \"/Users/temirlan/Documents/My Projects/ТГУ/Гуров/MusicAdapterPattern/main.cpp\"",
+  "file": "/Users/temirlan/Documents/My Projects/ТГУ/Гуров/MusicAdapterPattern/main.cpp",
+  "output": "CMakeFiles/MusicPlayerAdapter.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/temirlan/Documents/My Projects/ТГУ/Гуров/MusicAdapterPattern/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I\"/Users/temirlan/Documents/My Projects/ТГУ/Гуров/MusicAdapterPattern/build/MusicPlayerAdapter_autogen/include\" -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtMultimedia.framework/Headers -isystem /opt/homebrew/opt/qt/lib/QtNetwork.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/MusicPlayerAdapter.dir/mainwindow.cpp.o -c \"/Users/temirlan/Documents/My Projects/ТГУ/Гуров/MusicAdapterPattern/mainwindow.cpp\"",
+  "file": "/Users/temirlan/Documents/My Projects/ТГУ/Гуров/MusicAdapterPattern/mainwindow.cpp",
+  "output": "CMakeFiles/MusicPlayerAdapter.dir/mainwindow.cpp.o"
+}
+]
