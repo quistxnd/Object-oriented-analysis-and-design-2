@@ -1,0 +1,5 @@
+D:/Studying/MusicNoAdapter/out/build/debug/CMakeFiles/MusicPlayerAdapter.dir
+D:/Studying/MusicNoAdapter/out/build/debug/CMakeFiles/edit_cache.dir
+D:/Studying/MusicNoAdapter/out/build/debug/CMakeFiles/rebuild_cache.dir
+D:/Studying/MusicNoAdapter/out/build/debug/CMakeFiles/MusicPlayerAdapter_autogen_timestamp_deps.dir
+D:/Studying/MusicNoAdapter/out/build/debug/CMakeFiles/MusicPlayerAdapter_autogen.dir

@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/Studying/MusicNoAdapter/out/build/debug/CMakeFiles/MusicPlayerAdapter.dir/embed.manifest"

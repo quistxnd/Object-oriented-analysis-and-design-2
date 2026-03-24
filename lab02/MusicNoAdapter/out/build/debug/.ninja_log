@@ -1,0 +1,21 @@
+# ninja log v6
+52	382	7960671381772587	MusicPlayerAdapter_autogen/timestamp	217b2a5a5d33fd00
+52	382	7960671381772587	MusicPlayerAdapter_autogen/mocs_compilation.cpp	217b2a5a5d33fd00
+52	382	7960671381772587	D:/Studying/MusicNoAdapter/out/build/debug/MusicPlayerAdapter_autogen/timestamp	217b2a5a5d33fd00
+390	2837	7960671382472531	CMakeFiles/MusicPlayerAdapter.dir/mainwindow.cpp.obj	28e92827859f728
+52	382	7960671381772587	D:/Studying/MusicNoAdapter/out/build/debug/MusicPlayerAdapter_autogen/mocs_compilation.cpp	217b2a5a5d33fd00
+383	2894	7960671382403315	CMakeFiles/MusicPlayerAdapter.dir/MusicPlayerAdapter_autogen/mocs_compilation.cpp.obj	95f9caa4be1d092a
+387	2755	7960671382438351	CMakeFiles/MusicPlayerAdapter.dir/main.cpp.obj	b665666b23eef402
+2895	3107	7960671407510735	MusicPlayerAdapter.exe	b1cc44709c525dff
+35	163	7960672909443506	MusicPlayerAdapter_autogen/timestamp	217b2a5a5d33fd00
+35	163	7960672909443506	MusicPlayerAdapter_autogen/mocs_compilation.cpp	217b2a5a5d33fd00
+35	163	7960672909443506	D:/Studying/MusicNoAdapter/out/build/debug/MusicPlayerAdapter_autogen/timestamp	217b2a5a5d33fd00
+35	163	7960672909443506	D:/Studying/MusicNoAdapter/out/build/debug/MusicPlayerAdapter_autogen/mocs_compilation.cpp	217b2a5a5d33fd00
+164	2483	7960672910721635	CMakeFiles/MusicPlayerAdapter.dir/mainwindow.cpp.obj	28e92827859f728
+2483	2643	7960672933923061	MusicPlayerAdapter.exe	b1cc44709c525dff
+46	201	7960673332100959	MusicPlayerAdapter_autogen/timestamp	217b2a5a5d33fd00
+46	201	7960673332100959	MusicPlayerAdapter_autogen/mocs_compilation.cpp	217b2a5a5d33fd00
+46	201	7960673332100959	D:/Studying/MusicNoAdapter/out/build/debug/MusicPlayerAdapter_autogen/timestamp	217b2a5a5d33fd00
+46	201	7960673332100959	D:/Studying/MusicNoAdapter/out/build/debug/MusicPlayerAdapter_autogen/mocs_compilation.cpp	217b2a5a5d33fd00
+202	2736	7960673333659491	CMakeFiles/MusicPlayerAdapter.dir/mainwindow.cpp.obj	28e92827859f728
+2736	2924	7960673358993738	MusicPlayerAdapter.exe	b1cc44709c525dff

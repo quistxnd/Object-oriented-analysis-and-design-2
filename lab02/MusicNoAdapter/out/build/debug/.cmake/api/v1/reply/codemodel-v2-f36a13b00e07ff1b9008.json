@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MusicPlayerAdapter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MusicPlayerAdapter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MusicPlayerAdapter-Debug-db5e242ee359e32c5ec0.json",
+					"name" : "MusicPlayerAdapter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MusicPlayerAdapter_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MusicPlayerAdapter_autogen-Debug-6aa40c0f9d9553fc5fd8.json",
+					"name" : "MusicPlayerAdapter_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MusicPlayerAdapter_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MusicPlayerAdapter_autogen_timestamp_deps-Debug-2c29f09fbda1a1143e4c.json",
+					"name" : "MusicPlayerAdapter_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Studying/MusicNoAdapter/out/build/debug",
+		"source" : "D:/Studying/MusicNoAdapter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

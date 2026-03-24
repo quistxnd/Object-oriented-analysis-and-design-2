@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_MusicPlayerAdapter_FILE /Users/temirlan/Documents/My Projects/ТГУ/Гуров/MusicAdapterPattern/build/MusicPlayerAdapter.app/Contents/MacOS/MusicPlayerAdapter)
+set(__QT_DEPLOY_TARGET_MusicPlayerAdapter_TYPE EXECUTABLE)
