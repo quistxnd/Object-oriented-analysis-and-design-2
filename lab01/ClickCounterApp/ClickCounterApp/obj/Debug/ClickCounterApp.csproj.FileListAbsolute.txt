@@ -1,0 +1,12 @@
+D:\Studying\ooap\ClickCounterApp\ClickCounterApp\obj\Debug\ClickCounterApp.csproj.AssemblyReference.cache
+D:\Studying\ooap\ClickCounterApp\ClickCounterApp\obj\Debug\ClickCounterApp.Form1.resources
+D:\Studying\ooap\ClickCounterApp\ClickCounterApp\obj\Debug\ClickCounterApp.Form2.resources
+D:\Studying\ooap\ClickCounterApp\ClickCounterApp\obj\Debug\ClickCounterApp.Properties.Resources.resources
+D:\Studying\ooap\ClickCounterApp\ClickCounterApp\obj\Debug\ClickCounterApp.csproj.GenerateResource.cache
+D:\Studying\ooap\ClickCounterApp\ClickCounterApp\obj\Debug\ClickCounterApp.csproj.CoreCompileInputs.cache
+D:\Studying\ooap\ClickCounterApp\ClickCounterApp\bin\Debug\ClickCounterApp.exe.config
+D:\Studying\ooap\ClickCounterApp\ClickCounterApp\bin\Debug\ClickCounterApp.exe
+D:\Studying\ooap\ClickCounterApp\ClickCounterApp\bin\Debug\ClickCounterApp.pdb
+D:\Studying\ooap\ClickCounterApp\ClickCounterApp\obj\Debug\ClickCounterApp.exe
+D:\Studying\ooap\ClickCounterApp\ClickCounterApp\obj\Debug\ClickCounterApp.pdb
+D:\Studying\ooap\ClickCounterApp\ClickCounterApp\obj\Debug\ClickCounterApp.exe.config

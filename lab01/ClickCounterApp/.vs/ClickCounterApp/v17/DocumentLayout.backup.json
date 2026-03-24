@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studying\\ooap\\ClickCounterApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EB7FEC-D84A-4AE9-8A25-F14435307455}|ClickCounterApp\\ClickCounterApp.csproj|d:\\studying\\ooap\\clickcounterapp\\clickcounterapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3EB7FEC-D84A-4AE9-8A25-F14435307455}|ClickCounterApp\\ClickCounterApp.csproj|solutionrelative:clickcounterapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EB7FEC-D84A-4AE9-8A25-F14435307455}|ClickCounterApp\\ClickCounterApp.csproj|D:\\Studying\\ooap\\ClickCounterApp\\clickcounterapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3EB7FEC-D84A-4AE9-8A25-F14435307455}|ClickCounterApp\\ClickCounterApp.csproj|solutionrelative:clickcounterapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EB7FEC-D84A-4AE9-8A25-F14435307455}|ClickCounterApp\\ClickCounterApp.csproj|D:\\Studying\\ooap\\ClickCounterApp\\clickcounterapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3EB7FEC-D84A-4AE9-8A25-F14435307455}|ClickCounterApp\\ClickCounterApp.csproj|solutionrelative:clickcounterapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EB7FEC-D84A-4AE9-8A25-F14435307455}|ClickCounterApp\\ClickCounterApp.csproj|D:\\Studying\\ooap\\ClickCounterApp\\clickcounterapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3EB7FEC-D84A-4AE9-8A25-F14435307455}|ClickCounterApp\\ClickCounterApp.csproj|solutionrelative:clickcounterapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EB7FEC-D84A-4AE9-8A25-F14435307455}|ClickCounterApp\\ClickCounterApp.csproj|D:\\Studying\\ooap\\ClickCounterApp\\clickcounterapp\\clickcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3EB7FEC-D84A-4AE9-8A25-F14435307455}|ClickCounterApp\\ClickCounterApp.csproj|solutionrelative:clickcounterapp\\clickcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EB7FEC-D84A-4AE9-8A25-F14435307455}|ClickCounterApp\\ClickCounterApp.csproj|D:\\Studying\\ooap\\ClickCounterApp\\clickcounterapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3EB7FEC-D84A-4AE9-8A25-F14435307455}|ClickCounterApp\\ClickCounterApp.csproj|solutionrelative:clickcounterapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EB7FEC-D84A-4AE9-8A25-F14435307455}|ClickCounterApp\\ClickCounterApp.csproj|D:\\Studying\\ooap\\ClickCounterApp\\clickcounterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3EB7FEC-D84A-4AE9-8A25-F14435307455}|ClickCounterApp\\ClickCounterApp.csproj|solutionrelative:clickcounterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Studying\\ooap\\ClickCounterApp\\ClickCounterApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ClickCounterApp\\Form1.Designer.cs",
+              "ToolTip": "D:\\Studying\\ooap\\ClickCounterApp\\ClickCounterApp\\Form1.Designer.cs",
+              "RelativeToolTip": "ClickCounterApp\\Form1.Designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:42:05.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Studying\\ooap\\ClickCounterApp\\ClickCounterApp\\Form2.cs",
+              "RelativeDocumentMoniker": "ClickCounterApp\\Form2.cs",
+              "ToolTip": "D:\\Studying\\ooap\\ClickCounterApp\\ClickCounterApp\\Form2.cs",
+              "RelativeToolTip": "ClickCounterApp\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:38:24.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Studying\\ooap\\ClickCounterApp\\ClickCounterApp\\Form2.cs",
+              "RelativeDocumentMoniker": "ClickCounterApp\\Form2.cs",
+              "ToolTip": "D:\\Studying\\ooap\\ClickCounterApp\\ClickCounterApp\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ClickCounterApp\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:37:32.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Studying\\ooap\\ClickCounterApp\\ClickCounterApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ClickCounterApp\\Form1.cs",
+              "ToolTip": "D:\\Studying\\ooap\\ClickCounterApp\\ClickCounterApp\\Form1.cs",
+              "RelativeToolTip": "ClickCounterApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:36:37.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClickCounter.cs",
+              "DocumentMoniker": "D:\\Studying\\ooap\\ClickCounterApp\\ClickCounterApp\\ClickCounter.cs",
+              "RelativeDocumentMoniker": "ClickCounterApp\\ClickCounter.cs",
+              "ToolTip": "D:\\Studying\\ooap\\ClickCounterApp\\ClickCounterApp\\ClickCounter.cs",
+              "RelativeToolTip": "ClickCounterApp\\ClickCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:34:41.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Studying\\ooap\\ClickCounterApp\\ClickCounterApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClickCounterApp\\Program.cs",
+              "ToolTip": "D:\\Studying\\ooap\\ClickCounterApp\\ClickCounterApp\\Program.cs",
+              "RelativeToolTip": "ClickCounterApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:33:58.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Studying\\ooap\\ClickCounterApp\\ClickCounterApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ClickCounterApp\\Form1.cs",
+              "ToolTip": "D:\\Studying\\ooap\\ClickCounterApp\\ClickCounterApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ClickCounterApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:33:52.046Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

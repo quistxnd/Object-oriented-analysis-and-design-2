@@ -1,0 +1,12 @@
+D:\Studying\ooap\ClickCounterSingleton\ClickCounterSingleton\obj\Debug\ClickCounterSingleton.csproj.AssemblyReference.cache
+D:\Studying\ooap\ClickCounterSingleton\ClickCounterSingleton\obj\Debug\ClickCounterSingleton.Form1.resources
+D:\Studying\ooap\ClickCounterSingleton\ClickCounterSingleton\obj\Debug\ClickCounterSingleton.Form2.resources
+D:\Studying\ooap\ClickCounterSingleton\ClickCounterSingleton\obj\Debug\ClickCounterSingleton.Properties.Resources.resources
+D:\Studying\ooap\ClickCounterSingleton\ClickCounterSingleton\obj\Debug\ClickCounterSingleton.csproj.GenerateResource.cache
+D:\Studying\ooap\ClickCounterSingleton\ClickCounterSingleton\obj\Debug\ClickCounterSingleton.csproj.CoreCompileInputs.cache
+D:\Studying\ooap\ClickCounterSingleton\ClickCounterSingleton\bin\Debug\ClickCounterSingleton.exe.config
+D:\Studying\ooap\ClickCounterSingleton\ClickCounterSingleton\bin\Debug\ClickCounterSingleton.exe
+D:\Studying\ooap\ClickCounterSingleton\ClickCounterSingleton\bin\Debug\ClickCounterSingleton.pdb
+D:\Studying\ooap\ClickCounterSingleton\ClickCounterSingleton\obj\Debug\ClickCounterSingleton.exe
+D:\Studying\ooap\ClickCounterSingleton\ClickCounterSingleton\obj\Debug\ClickCounterSingleton.pdb
+D:\Studying\ooap\ClickCounterSingleton\ClickCounterSingleton\obj\Debug\ClickCounterSingleton.exe.config
