@@ -66,10 +66,7 @@ class Card:
         self.is_hovered = False
 
     def play_card(self, owner, opponent, effects):
-        """
-        Анти-паттерн: ОГРОМНЫЙ IF-ELIF-ELSE.
-        Вся логика всех возможных карт смешана в одном методе.
-        """
+       
 
         if owner.mana < self.cost:
             effects.append(FloatingText(owner.pos, "НЕТ МАНЫ!", CLR['mana']))
