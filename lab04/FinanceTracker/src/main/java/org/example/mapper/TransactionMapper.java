@@ -13,7 +13,7 @@ import java.util.List;
 public class TransactionMapper implements DataMapper<Transaction> {
 
     private final CategoryMapper categoryMapper = new CategoryMapper();
-    private final UserMapper userMapper = new UserMapper(); // Добавили маппер юзеров!
+    private final UserMapper userMapper = new UserMapper(); 
 
     @Override
     public void insert(Transaction transaction) {
@@ -27,7 +27,7 @@ public class TransactionMapper implements DataMapper<Transaction> {
             pstmt.setString(3, transaction.getDate().toString());
             pstmt.setInt(4, transaction.getCategory().getId());
             pstmt.setInt(5, transaction.getUser().getId());
-            pstmt.setString(6, transaction.getDescription()); // 6-й параметр — описание
+            pstmt.setString(6, transaction.getDescription()); 
 
             pstmt.executeUpdate();
         } catch (SQLException e) {
