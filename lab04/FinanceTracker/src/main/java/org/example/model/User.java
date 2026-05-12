@@ -18,6 +18,6 @@ public class User {
 
     @Override
     public String toString() {
-        return name; // Для красивого отображения в выпадающем списке
+        return name; 
     }
 }
