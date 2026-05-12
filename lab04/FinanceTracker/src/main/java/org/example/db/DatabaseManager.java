@@ -54,7 +54,7 @@ public class DatabaseManager {
             stmt.execute(createTransactionsTable);
             stmt.execute(createGoalsTable);
 
-            // 3. Добавляем начальные данные (пользователей и категории)
+            // 3. Добавляем начальные данные
             stmt.execute("INSERT OR IGNORE INTO users (id, name) VALUES (1, 'Иван (Основной)')");
 
             stmt.execute("INSERT OR IGNORE INTO categories (id, name) VALUES (1, 'Зарплата')");
@@ -67,5 +67,5 @@ public class DatabaseManager {
         } catch (SQLException e) {
             System.err.println("Ошибка при создании БД: " + e.getMessage());
         }
-    } // Конец метода initDatabase
-} // Конец класса DatabaseManager
+    } 
+} 
