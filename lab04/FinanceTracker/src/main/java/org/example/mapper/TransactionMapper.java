@@ -13,7 +13,7 @@ import java.util.List;
 public class TransactionMapper implements DataMapper<Transaction> {
 
     private final CategoryMapper categoryMapper = new CategoryMapper();
-    private final UserMapper userMapper = new UserMapper(); // Добавили маппер юзеров!
+    private final UserMapper userMapper = new UserMapper(); 
 
     @Override
     public void insert(Transaction transaction) {
@@ -27,7 +27,7 @@ public class TransactionMapper implements DataMapper<Transaction> {
             pstmt.setString(3, transaction.getDate().toString());
             pstmt.setInt(4, transaction.getCategory().getId());
             pstmt.setInt(5, transaction.getUser().getId());
-            pstmt.setString(6, transaction.getDescription()); // 6-й параметр — описание
+            pstmt.setString(6, transaction.getDescription()); 
 
             pstmt.executeUpdate();
         } catch (SQLException e) {
@@ -35,7 +35,6 @@ public class TransactionMapper implements DataMapper<Transaction> {
         }
     }
 
-    // НОВЫЙ МЕТОД ДЛЯ УДАЛЕНИЯ!
     public void delete(int id) {
         String sql = "DELETE FROM transactions WHERE id = ?";
         try (Connection conn = DatabaseManager.getInstance().getConnection();
@@ -64,12 +63,12 @@ public class TransactionMapper implements DataMapper<Transaction> {
                 double amount = rs.getDouble("amount");
                 String type = rs.getString("type");
                 LocalDate date = LocalDate.parse(rs.getString("date"));
-                String desc = rs.getString("description"); // Достаем описание из БД
+                String desc = rs.getString("description"); 
 
                 Category category = categoryMapper.findById(rs.getInt("category_id"));
                 User user = userMapper.findById(rs.getInt("user_id"));
 
-                // Создаем объект, передавая в конструктор все 7 параметров
+                
                 transactions.add(new Transaction(id, amount, type, date, category, user, desc));
             }
         } catch (SQLException e) {

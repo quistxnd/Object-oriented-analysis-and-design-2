@@ -33,7 +33,7 @@ public class CategoryMapper implements DataMapper<Category> {
             ResultSet rs = pstmt.executeQuery();
 
             if (rs.next()) {
-                // ПРЕОБРАЗОВАНИЕ (Mapping): Берем данные из БД и создаем Java-объект
+                // Mapping: берем данные из БД и создаем Java-объект
                 return new Category(rs.getInt("id"), rs.getString("name"));
             }
         } catch (SQLException e) {
