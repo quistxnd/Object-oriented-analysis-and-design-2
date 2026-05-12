@@ -20,7 +20,7 @@ import java.util.stream.Collectors;
 
 public class FinanceTrackerGUI extends JFrame {
 
-    // Цветовая палитра (static для доступа из рендерера)
+    
     private static final Color BG_COLOR = new Color(15, 15, 18);
     private static final Color SIDEBAR_COLOR = new Color(22, 22, 26);
     private static final Color CARD_COLOR = new Color(28, 28, 33);
@@ -68,7 +68,7 @@ public class FinanceTrackerGUI extends JFrame {
     private void initUI() {
         setLayout(new BorderLayout());
 
-        // --- БОКОВАЯ ПАНЕЛЬ ---
+        
         sidebar = new JPanel();
         sidebar.setBackground(SIDEBAR_COLOR);
         sidebar.setPreferredSize(new Dimension(260, 0));
@@ -88,7 +88,7 @@ public class FinanceTrackerGUI extends JFrame {
 
         add(sidebar, BorderLayout.WEST);
 
-        // --- ОСНОВНОЙ КОНТЕНТ ---
+        
         cardLayout = new CardLayout();
         mainContent = new JPanel(cardLayout);
         mainContent.setBackground(BG_COLOR);
@@ -106,7 +106,7 @@ public class FinanceTrackerGUI extends JFrame {
         panel.setOpaque(false);
         panel.setBorder(new EmptyBorder(40, 40, 40, 40));
 
-        // КАРТОЧКИ СВЕРХУ
+        
         JPanel header = new JPanel(new GridLayout(1, 3, 30, 0));
         header.setOpaque(false);
         balanceLabel = createStatCard("ОБЩИЙ БАЛАНС", "💰", header, CARD_COLOR);
@@ -114,11 +114,11 @@ public class FinanceTrackerGUI extends JFrame {
         expenseLabel = createStatCard("РАСХОДЫ", "📉", header, new Color(40, 25, 25));
         panel.add(header, BorderLayout.NORTH);
 
-        // ЦЕНТРАЛЬНАЯ ЧАСТЬ
+        
         JPanel center = new JPanel(new BorderLayout(0, 30));
         center.setOpaque(false);
 
-        // Форма добавления (2 ряда)
+        // Форма добавления 
         JPanel form = new JPanel(new GridBagLayout());
         form.setBackground(CARD_COLOR);
         form.setBorder(new EmptyBorder(25, 25, 25, 25));
